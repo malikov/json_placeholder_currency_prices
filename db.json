@@ -1,0 +1,16 @@
+{
+"currencies": [
+{
+"iso_code": "BTC",
+"price": "0.000135400"
+},
+{
+"iso_code": "CAD",
+"price": "1.345134653184722"
+},
+{
+"iso_code": "USD",
+"price": "1"
+}
+]
+}
