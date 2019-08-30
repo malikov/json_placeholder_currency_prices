@@ -1,6 +1,14 @@
 {
 "currencies": [
  {
+"iso_code": "CHF",
+"price": "0.990060"
+},
+{
+"iso_code": "GBP",
+"price": "0.822496"
+},
+ {
 "iso_code": "AUD",
 "price": "1.48501"
 },
