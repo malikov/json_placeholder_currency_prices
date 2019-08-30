@@ -1,5 +1,9 @@
 {
 "currencies": [
+ {
+"iso_code": "EUR",
+"price": "0.908596"
+},
 {
 "iso_code": "BTC",
 "price": "0.000135400"
