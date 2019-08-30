@@ -1,6 +1,10 @@
 {
 "currencies": [
  {
+"iso_code": "AUD",
+"price": "1.48501"
+},
+ {
 "iso_code": "EUR",
 "price": "0.908596"
 },
